@@ -1,7 +1,7 @@
+# Sum of all the numbers from start to end which are dividible by 2 and 7
+
 start=int(input("Enter the start value:"))
 end=int(input("Enter the end value:"))
-
-
 
 i=start
 total=0
